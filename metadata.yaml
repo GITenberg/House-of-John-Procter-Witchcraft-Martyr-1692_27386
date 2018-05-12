@@ -1,0 +1,29 @@
+_repo: House-of-John-Procter-Witchcraft-Martyr-1692_27386
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Upham, William P. (William Phineas)
+    birthdate: 1836
+    deathdate: 1905
+    gutenberg_agent_id: '32663'
+    url: http://www.gutenberg.org/2009/agents/32663
+description: ''
+gutenberg_bookshelf: Witchcraft
+gutenberg_issued: '2008-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27386'
+  lccn: 06029097
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F001'
+- !lcsh 'Procter, John, 1632-1692'
+- !lcsh 'Peabody (Mass.) -- History'
+title: House of John Procter, Witchcraft Martyr, 1692
+url: http://www.gutenberg.org/ebooks/27386
