@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32663'
     url: http://www.gutenberg.org/2009/agents/32663
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27386#House-of-John-Procter-Witchcraft-Martyr-1692
 gutenberg_bookshelf: Witchcraft
 gutenberg_issued: '2008-12-02'
 gutenberg_type: Text
